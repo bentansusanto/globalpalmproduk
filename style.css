@@ -1,0 +1,498 @@
+/* Responsive */
+@media only screen and (max-width: 1440px){
+  .navbar-brand img{
+    width: 20%;
+  }
+  .latar img{
+    width: 55%;
+    margin-top: -7%;
+  }
+  .latar1{
+    margin-top: 20vh;
+  }
+  .latar1 h3{
+    width: 500px;
+    font-size: 3rem;
+  }
+  .latar1 p{
+    width: 40%;
+    font-size: 1rem;
+  }
+  .latar1 button{
+    height: 45px;
+  }
+  .tentang{
+    margin-top: 35%;
+  }
+  .tentang h1{
+    font-size: 10rem;
+  }
+  .tentang1 img{
+    margin-left: -15%;
+    margin-top: -30%;
+    width: 35vw;
+  }
+  .tentang1 h3, .tetnang1 p{
+    margin-top: -12%;
+  }
+  .tentang1 h3{
+    font-size: 2.5rem;
+  }
+  .tentang1 p{
+    width: 70%;
+  }
+  .fitur{
+    margin-top: 30%;
+  }
+  .fitur h1{
+    font-size: 12rem;
+  }
+  .fitur h3{
+    font-size: 3rem;
+    margin-top: -10%;
+  }
+  .fitur-contents{
+    margin-top: 10%;
+  }
+  .fitur-content, .fitur-content1{
+    width: 23.5%;
+    margin-left: 15px;
+  }
+  .fitur-content h4{
+    font-size: 1.2rem;
+  }
+  .produk{
+    margin-top: 30%;
+  }
+  .produk h1{
+    font-size: 12rem;
+  }
+  .produk h3{
+    font-size: 3rem;
+    margin-top: -10%;
+  }
+  .produk-content, .produk-content1{
+    margin-top: 15%;
+  }
+  .produk-content img, .produk-content1 img{
+    margin-top: -30%;
+    width: 20vw;
+  }
+  .produk-content h4, .produk-content1 h4{
+    font-size: 2rem;
+  }
+  .produk-content p, .produk-content1 p{
+    width: 50%;
+  }
+  .produk-content1 p, .produk-content1 h4{
+    margin-left: 50%;
+  }
+  .bawah-content{
+    margin-top: 17%;
+    background-color: #434343;
+    height: 40%;
+    padding: 5% 0;
+  }
+  .bawah-content p{
+    width: 35%;
+  }
+  .bawah-social{
+    width: 50%;
+    padding: 0 10px;
+  }
+  .bawah-social ion-icon{
+    font-size: 2rem;
+    color: #fdfdfd;
+  }
+  .bawah-social ion-icon:last-child{
+    margin-left: -14%;
+  }
+  .bawah1{
+    background-color: #090909;
+    padding: 10px 5px;
+  }
+  .bawah1 p{
+    font-size: unset;
+  }
+  
+ 
+}
+@media only screen and (max-width: 1024px){
+  .navbar-brand img{
+    width: 20%;
+  }
+  .latar img{
+    width: 55%;
+    margin-top: -7%;
+  }
+  .latar1{
+    margin-top: 20vh;
+  }
+  .latar1 h3{
+    width: 500px;
+    font-size: 2.5rem;
+  }
+  .latar1 p{
+    width: 40%;
+  }
+  .latar1 button{
+    height: 45px;
+  }
+  .tentang{
+    margin-top: 35%;
+  }
+  .tentang h1{
+    font-size: 10rem;
+  }
+  .tentang1 img{
+    margin-left: -15%;
+    width: 35vw;
+  }
+  .tentang1 h3, .tetnang1 p{
+    margin-top: -15%;
+  }
+  .tentang1 h3{
+    font-size: 2.5rem;
+  }
+  .tentang1 p{
+    width: 90%;
+  }
+  .fitur{
+    margin-top: 35%;
+  }
+  .fitur h1{
+    font-size: 10rem;
+  }
+  .fitur h3{
+    font-size: 2.5rem;
+    margin-top: -11%;
+  }
+  .fitur-contents{
+    margin-top: 10%;
+  }
+  .fitur-content, .fitur-content1{
+    width: 40%;
+    margin-left: 15px;
+  }
+  .fitur-content h4{
+    font-size: 1.2rem;
+  }
+  .produk{
+    margin-top: 35%;
+  }
+  .produk h1{
+    font-size: 10rem;
+  }
+  .produk h3{
+    font-size: 2.5rem;
+    margin-top: -11%;
+  }
+  .produk-content, .produk-content1{
+    margin-top: 15%;
+  }
+  .produk-content img, .produk-content1 img{
+    margin-top: -10%;
+    width: 25vw;
+  }
+  .produk-content h4, .produk-content1 h4{
+    font-size: 1.8rem;
+  }
+  .produk-content p, .produk-content1 p{
+    width: 60%;
+  }
+  .produk-content1 p, .produk-content1 h4{
+    margin-left: 40%;
+  }
+  .bawah-content{
+    margin-top: 50%;
+  }
+  .bawah-content p{
+    width: 40%;
+  }
+  .bawah-content{
+    margin-top: 17%;
+    background-color: #434343;
+    height: 40%;
+    padding: 5% 0;
+  }
+  .bawah-content p{
+    width: 40%;
+  }
+  .bawah-social{
+    width: 50%;
+    padding: 0 10px;
+  }
+  .bawah-social ion-icon{
+    font-size: 1.8rem;
+    color: #fdfdfd;
+  }
+  .bawah-social ion-icon:last-child{
+    margin-left: -12%;
+  }
+  .bawah1{
+    background-color: #090909;
+    padding: 10px 5px;
+  }
+  .bawah1 p{
+    font-size: unset;
+  }
+ 
+}
+
+
+@media only screen and (max-width: 768px){
+  .navbar-brand img{
+    width: 20vw;
+  }
+  .latar img{
+    width: 60%;
+    margin-top: -9%;
+  }
+  .latar1{
+    margin-top: 15vh;
+  }
+  .latar1 h3{
+    width: 250px;
+    font-size: 1.5rem;
+  }
+  .latar1 p{
+    width: 40%;
+    font-size: .8rem;
+  }
+  .latar1 button{
+    height: 5%;
+    font-size: .8rem;
+  }
+  .tentang{
+    margin-top: 25%;
+  }
+  .tentang h1{
+    font-size: 7rem;
+  }
+  .tentang1 img{
+    margin-left: -15%;
+    margin-top: -10%;
+    width: 35vw;
+  }
+  .tentang1 h3, .tetnang1 p{
+    margin-top: -18%;
+  }
+  .tentang1 h3{
+    font-size: 2.5rem;
+  }
+  .tentang1 p{
+    width: 100%;
+    font-size: .9rem;
+  }
+  .fitur{
+    margin-top: 25%;
+  }
+  .fitur h1{
+    font-size: 7rem;
+  }
+  .fitur h3{
+    font-size: 2rem;
+    margin-top: -11%;
+  }
+  .fitur-contents{
+    margin-top: 10%;
+  }
+  .fitur-content, .fitur-content1{
+    width: 45%;
+    margin-left: 15px;
+  }
+  .fitur-content h4{
+    font-size: 1.2rem;
+  }
+  .fitur-content p{
+    font-size: .9rem;
+  }
+  .produk{
+    margin-top: 25%;
+
+  }
+  .produk h1{
+    font-size: 7rem;
+  }
+  .produk h3{
+    font-size: 2rem;
+    margin-top: -11%;
+  }
+  .produk-content, .produk-content1{
+    margin-top: 15%;
+  }
+  .produk-content img, .produk-content1 img{
+    margin-top: -10%;
+    width: 35vw;
+  } 
+  .produk-content h4, .produk-content1 h4{
+    font-size: 1.5rem;
+  }
+  .produk-content p, .produk-content1 p{
+    font-size: .9rem;
+    width: 100%;
+  }
+  .produk-content1 p, .produk-content1 h4{
+    margin-left: 2%;
+  }
+  .bawah-content{
+    margin-top: 17%;
+    background-color: #434343;
+    height: 40%;
+    padding: 5% 0;
+  }
+  .bawah-content p{
+    width: 50%;
+    font-size: .9rem;
+  }
+  .bawah-social{
+    width: 50%;
+    padding: 0 5px;
+  }
+  .bawah-social ion-icon{
+    font-size: 1.5rem;
+    color: #fdfdfd;
+  }
+  .bawah-social ion-icon:last-child{
+    margin-left: -10%;
+  }
+  .bawah1{
+    background-color: #090909;
+    padding: 10px 5px;
+  }
+  .bawah1 p{
+    font-size: .9rem;
+  }
+
+}
+@media only screen and (max-width: 576px){
+  .navbar-brand img{
+    width: 50vw;
+  }
+  .latar{
+    padding-top: 10vh;
+  }
+  .latar img{
+    width: 80%;
+  }
+  .latar1{
+    margin-top: 70%;
+  }
+  .latar1 h3{
+    width: 80%;
+    font-size: 1.8rem;
+  }
+  .latar1 p{
+    width: 100%;
+    font-size: .8rem;
+  }
+  .latar1 button{
+    height: 5%;
+    font-size: .8rem;
+  }
+  .tentang{
+    display: none;
+  }
+  .tentang1{
+    margin-top: 60%;
+  }
+  .tentang1 img{
+    margin-left: -10%;
+    width: 90%;
+  }
+  .tentang1 h3, .tentang1 p{
+    padding: 0 5px;
+  }
+  .tentang1 h3{
+    margin-top: 10%;
+    font-size: 1.8rem;
+  }
+  .tentang1 p{
+    width: 100%;
+    font-size: .9rem;
+  }
+  .fitur{
+    margin-top: 30%;
+  }
+  .fitur h1{
+    font-size: 4rem;
+  }
+  .fitur h3{
+    font-size: 1.5rem;
+    margin-top: -14%;
+  }
+  .fitur-contents{
+    margin-top: 10%;
+  }
+  .fitur-content, .fitur-content1{
+    width: 80%;
+    margin-left: unset;
+  }
+  .fitur-content h4{
+    font-size: 1.2rem;
+  }
+  .fitur-content p{
+    font-size: .9rem;
+  }
+  .produk{
+    margin-top: 25%;
+
+  }
+  .produk h1{
+    font-size: 5rem;
+  }
+  .produk h3{
+    font-size: 1.8rem;
+    margin-top: -14%;
+  }
+  .produk-content, .produk-content1{
+    margin-top: 35%;
+  }
+  .produk-content img, .produk-content1 img{
+    width: 70%;
+  }
+  .produk-content h4, .produk-content1 h4{
+    font-size: 1.5rem;
+    padding-top: 10px;
+  }
+  .produk-content p, .produk-content1 p{
+    font-size: .9rem;
+    width: 100%;
+  }
+  .produk-content1 p, .produk-content1 h4{
+    margin-left: unset;
+  }
+  .bawah-content{
+    margin-top: 17%;
+    background-color: #434343;
+    height: 40%;
+    padding: 5% 0;
+  }
+  .bawah-content p{
+    width: 70%;
+    font-size: .8rem;
+  }
+  .bawah-content img{
+    width: 55%;
+  }
+  .bawah-social{
+    width: 50%;
+    padding: unset;
+  }
+  .bawah-social ion-icon{
+    font-size: 1.5rem;
+    color: #fdfdfd;
+  }
+  .bawah-social ion-icon:last-child{
+    margin-left: 1%;
+  }
+  .bawah1{
+    background-color: #090909;
+    padding: 10px 5px;
+  }
+  .bawah1 p{
+    font-size: .9rem;
+  }
+}
+
+
